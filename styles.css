@@ -3,7 +3,11 @@ body{
 	width:1100px;
 	background-color:#BDD1B6;
 }
-table, tr,td{
+.imageContainer img{
+	max-width: 100%;
+      height: auto;
+}
+table,tr,td{
 	boder:1px solid black; 
 }
 #tc1{
