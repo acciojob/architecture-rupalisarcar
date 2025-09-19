@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px;
+	background-color:#BDD1B6;
+}
+table, tr,td{
+	boder:1px solid black; 
+}
+#tc1{
+	width:200px;
+}
+#tc3{
+	width:200px;
+}
+#tc2{
+	width:600px;
+	text-align:"center"
+}
